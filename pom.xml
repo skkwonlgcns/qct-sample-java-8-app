@@ -78,7 +78,6 @@
             <artifactId>guava</artifactId>
             <version>33.4.0-jre</version>
         </dependency>
-
         <dependency>
             <groupId>org.apache.groovy</groupId>
             <artifactId>groovy-all</artifactId>
